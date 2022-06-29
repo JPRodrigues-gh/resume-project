@@ -270,7 +270,7 @@ footer {
 .personal-info-item .key,
 .personal-info-item .value {
     padding-right: 8px;
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 .personal-info-item .key p,
@@ -378,6 +378,7 @@ footer {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
+    background-color: #9b59b6;
 }
 
 button[type="submit"] {
